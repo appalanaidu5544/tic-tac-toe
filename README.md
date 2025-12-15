@@ -57,49 +57,6 @@ Displays the winner or draw message
 
 Players can reset the game to play again
 
-📂 Project Structure
-tic-tac-toe/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── components/
-│   │   └── TicTacToe.jsx
-│   │
-│   ├── App.js
-│   ├── index.js
-│   ├── App.css
-│   └── index.css
-│
-├── package.json
-└── README.md
-
-▶️ Run the Project Locally
-
-Clone the repository
-
-git clone https://github.com/your-username/tic-tac-toe.git
-
-
-Navigate to the project folder
-
-cd tic-tac-toe
-
-
-Install dependencies
-
-npm install
-
-
-Start the development server
-
-npm start
-
-
-Open in browser
-
-http://localhost:3000
 
 🎯 Learning Outcomes
 
